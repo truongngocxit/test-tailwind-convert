@@ -111,6 +111,10 @@ svg {
     gap: 10px;
 }
 
+.header > span {
+	font-style: italic;
+}
+
 .header--item {
     padding: 4px 8px;
     cursor: pointer;
