@@ -122,6 +122,6 @@ svg {
 }
 
 .header--item:hover {
-    color: #FFEB3B;
-    background-color: #1E1E1E;
+    color: #FFEB3B !important;
+    background-color: #1E1E1E !important;
 }
